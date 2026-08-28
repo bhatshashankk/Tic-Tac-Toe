@@ -4,17 +4,17 @@ A simple, interactive **Tic-Tac-Toe** game built using web technologies.
 
 [Live Demo Link] : https://tic-tac-toe-tan-eta-99.vercel.app
 
-## 🛠️ Built With
+## Built With
 * **HTML5:** Structures the game board.
 * **CSS3:** Handles the visual styling and layout.
 * **JavaScript:** Manages the game logic, win conditions, and turn rotation.
 
-## 📁 File Structure
+## File Structure
 * `index.html` - The structure of the website.
 * `style.css` - The styling of the website.
 * `app.js` - The core game logic behind the website.
 
-## 🎮 How to Play
+## How to Play
 1. The game is played on a 3x3 grid.
 2. Two players take turns clicking on empty squares to place their marks (**X** and **O**).
 3. The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins the game.
